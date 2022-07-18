@@ -4,7 +4,7 @@ This repo contains codes for public use.
 
 Hi, everyone! my name is Abhishek Roka. I'm a Computer Science and Engineering student and freelance Web Developer and much more.
 
-This repo contains codes which I making publicly avaiblable for use.
+This repo contains codes which I am making publicly avaiblable for use.
 
 
 
